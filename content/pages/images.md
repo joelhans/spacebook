@@ -17,10 +17,10 @@ If you have used Markdown before, this will be the familiar and typical way of a
 * **Reference the image in your page** -- once you've added your image  you can reference it from anywhere using the following syntax:
 
 ```
-![Space](/images/space.jpg)
+![Space](/content/images/space.jpg)
 ```
 
-![My image](/images/space.jpg)
+![My image](/content/images/space.jpg)
 
 **File size**
 
@@ -55,7 +55,7 @@ Images are centered by default, and there is a special syntax to add a caption d
 ->_Carl Sagan, 1987_<-
 ```
 
-![My image](/images/space.jpg)
+![My image](/content/images/space.jpg)
 
 ->_Credits: Space walk, NASA_<-
 
