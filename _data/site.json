@@ -5,7 +5,7 @@
   "footer": "<a href='https://spacebook.app'>Made with ❤ in Minneapolis</a>",
   "url": "https://spacebook.app",
   "githubUrl": "https://github.com/broeker/spacebook",
-  "githubBranch": "main",
+  "githubBranch": "spacebook-demo",
   "navigationStyle": "vertical",
   "emoji": "💥",
   "enableSearch": true,
