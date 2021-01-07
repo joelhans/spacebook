@@ -36,7 +36,7 @@ If you do not want to sell your soul or subject your users to ads and tracking s
 
 ## So you've chosen a comment engine!
 
-Once you've chosen your engine, it is easy to enable comments on your spacebook site on a per-page base. Just follow these simple steps:
+Once you've chosen your engine, it is easy to enable comments on your spacebook site on a per-page basis. Just follow these simple steps:
 
 ### Enable comments in _data/sites.json
 
